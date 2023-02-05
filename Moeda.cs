@@ -16,7 +16,7 @@ namespace Projeto
             //Math é uma classe matematica
 
             //Arredendo valores
-            //Console.WriteLine(Math.Round(valor));
+            Console.WriteLine(Math.Round(valor));
 
             //Arredendo valores para cima
             Console.WriteLine(Math.Ceiling(valor));
