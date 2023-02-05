@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\Projeto\\Projeto.csproj": {}
+    "C:\\Users\\gabri\\TesteGit\\TesteGit\\Projeto.csproj": {}
   },
   "projects": {
-    "C:\\dev\\Projeto\\Projeto.csproj": {
+    "C:\\Users\\gabri\\TesteGit\\TesteGit\\Projeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\Projeto\\Projeto.csproj",
+        "projectUniqueName": "C:\\Users\\gabri\\TesteGit\\TesteGit\\Projeto.csproj",
         "projectName": "Projeto",
-        "projectPath": "C:\\dev\\Projeto\\Projeto.csproj",
+        "projectPath": "C:\\Users\\gabri\\TesteGit\\TesteGit\\Projeto.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\Projeto\\obj\\",
+        "outputPath": "C:\\Users\\gabri\\TesteGit\\TesteGit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

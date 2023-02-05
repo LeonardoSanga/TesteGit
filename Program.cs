@@ -6,7 +6,7 @@ namespace Projeto
     {
         static void Main(string[] args)
         {
-            Excecao.Aplication();
+            Moeda.Aplication();
         }
     }
 

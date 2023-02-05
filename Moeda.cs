@@ -13,7 +13,7 @@ namespace Projeto
             decimal valor = 10322.95m;
 
             //Formats de número: C, E04, G, F, N, P
-            Console.WriteLine(valor.ToString("C", CultureInfo.CreateSpecificCulture("en-US")));
+            Console.WriteLine(valor.ToString("C", CultureInfo.CreateSpecificCulture("pt-BR")));
 
             //Math é uma classe matematica
 
