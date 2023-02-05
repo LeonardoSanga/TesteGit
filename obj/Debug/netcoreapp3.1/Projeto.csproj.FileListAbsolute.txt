@@ -12,3 +12,17 @@ C:\dev\Projeto\obj\Debug\netcoreapp3.1\Projeto.csproj.CoreCompileInputs.cache
 C:\dev\Projeto\obj\Debug\netcoreapp3.1\Projeto.dll
 C:\dev\Projeto\obj\Debug\netcoreapp3.1\Projeto.pdb
 C:\dev\Projeto\obj\Debug\netcoreapp3.1\Projeto.genruntimeconfig.cache
+C:\Users\gabri\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\Projeto.exe
+C:\Users\gabri\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\Projeto.deps.json
+C:\Users\gabri\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\Projeto.runtimeconfig.json
+C:\Users\gabri\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\Projeto.runtimeconfig.dev.json
+C:\Users\gabri\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\Projeto.dll
+C:\Users\gabri\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\Projeto.pdb
+C:\Users\gabri\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\Projeto.csproj.AssemblyReference.cache
+C:\Users\gabri\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\Projeto.AssemblyInfoInputs.cache
+C:\Users\gabri\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\Projeto.AssemblyInfo.cs
+C:\Users\gabri\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\gabri\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\Projeto.dll
+C:\Users\gabri\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\Projeto.pdb
+C:\Users\gabri\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\Projeto.genruntimeconfig.cache
