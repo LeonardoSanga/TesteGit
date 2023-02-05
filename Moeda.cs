@@ -8,6 +8,8 @@ namespace Projeto
     {
         public static void Aplication()
         {
+            Console.Clear();
+
             decimal valor = 10322.95m;
 
             //Formats de número: C, E04, G, F, N, P
